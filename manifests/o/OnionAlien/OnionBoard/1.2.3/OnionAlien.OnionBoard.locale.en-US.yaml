@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
 
 PackageIdentifier: OnionAlien.OnionBoard
-PackageVersion: 1.2.2
+PackageVersion: 1.2.3
 PackageLocale: en-US
 Publisher: Onion Board
 PublisherUrl: https://github.com/Onion-Alien
@@ -23,6 +23,6 @@ Tags:
 - streaming
 - text-to-speech
 - voice-changer
-ReleaseNotesUrl: https://github.com/Onion-Alien/onionboard/releases/tag/v1.2.2
+ReleaseNotesUrl: https://github.com/Onion-Alien/onionboard/releases/tag/v1.2.3
 ManifestType: defaultLocale
 ManifestVersion: 1.9.0
