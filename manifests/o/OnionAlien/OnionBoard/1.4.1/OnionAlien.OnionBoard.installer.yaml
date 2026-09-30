@@ -17,7 +17,7 @@ ProductCode: '{6B0B6E2F-6D63-4C1B-9E0B-5B8E3C2A71D4}_is1'
 ReleaseDate: 2026-09-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Onion-Alien/onionboard/releases/download/v1.4.1/OnionBoardSetup.exe
+  InstallerUrl: https://github.com/Onion-Alien/onion-board/releases/download/v1.4.1/OnionBoardSetup.exe
   InstallerSha256: 0F3C5AC92678F5A6F5EA3361611BB73C3139EE2A884CF48B55497044852E2236
 ManifestType: installer
 ManifestVersion: 1.9.0
