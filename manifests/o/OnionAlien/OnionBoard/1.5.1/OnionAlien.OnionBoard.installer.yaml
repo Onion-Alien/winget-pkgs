@@ -18,6 +18,6 @@ ReleaseDate: 2026-09-30
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/Onion-Alien/onion-board/releases/download/v1.5.1/OnionBoardSetup.exe
-  InstallerSha256: 37D334FC12173E976E3BB5D3DA2F7C11F0C8AC77002B6DB67F7BEDB2BCC6FDBA
+  InstallerSha256: 840E743E953927BA7E96BF870FE6832F0B019A669700B06B2B140C119EC1C358
 ManifestType: installer
 ManifestVersion: 1.9.0
