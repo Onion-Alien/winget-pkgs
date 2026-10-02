@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
 
 PackageIdentifier: OnionAlien.OnionBoard
-PackageVersion: 1.5.8
+PackageVersion: 1.5.9
 InstallerType: inno
 Scope: user
 InstallModes:
@@ -14,10 +14,10 @@ InstallerSwitches:
   Custom: /MERGETASKS="!vbcable,!ffmpeg,!livevoice"
 UpgradeBehavior: install
 ProductCode: '{6B0B6E2F-6D63-4C1B-9E0B-5B8E3C2A71D4}_is1'
-ReleaseDate: 2026-10-01
+ReleaseDate: 2026-10-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Onion-Alien/onion-board/releases/download/v1.5.8/OnionBoardSetup.exe
-  InstallerSha256: 406B80916AC49F975A841DC57753E4A04A1A2DB558180AB6FADC0562B64AB1BC
+  InstallerUrl: https://github.com/Onion-Alien/onion-board/releases/download/v1.5.9/OnionBoardSetup.exe
+  InstallerSha256: 0CDA7F243DB9D614CD3F000B88B555E07A219F525998DBDC729ADDAFE68F552B
 ManifestType: installer
 ManifestVersion: 1.9.0
