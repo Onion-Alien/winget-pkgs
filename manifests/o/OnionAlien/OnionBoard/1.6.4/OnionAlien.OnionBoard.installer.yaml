@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
 
 PackageIdentifier: OnionAlien.OnionBoard
-PackageVersion: 1.6.3
+PackageVersion: 1.6.4
 InstallerType: inno
 Scope: user
 InstallModes:
@@ -17,7 +17,7 @@ ProductCode: '{6B0B6E2F-6D63-4C1B-9E0B-5B8E3C2A71D4}_is1'
 ReleaseDate: 2026-10-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Onion-Alien/onion-board/releases/download/v1.6.3/OnionBoardSetup.exe
-  InstallerSha256: E176C3297DCE396411E1D49754B2F9889FC634A5454275A30C1D78EB56A8433D
+  InstallerUrl: https://github.com/Onion-Alien/onion-board/releases/download/v1.6.4/OnionBoardSetup.exe
+  InstallerSha256: 2A29BEF1EBE523907AB255538AFCBAD1D88ACD4E20AEC8B2946F31DCA37BA1E4
 ManifestType: installer
 ManifestVersion: 1.9.0
